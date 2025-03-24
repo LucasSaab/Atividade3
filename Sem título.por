@@ -1,14 +1,17 @@
 programa {
   funcao inicio() {
-    inteiro x, y, soma
+    inteiro a, b, c
 
     escreva("Digite um número: ")
-    leia(x)
+    leia(a)
 
     escreva("Digite um segundo número: ")
-    leia(y)
+    leia(b)
 
-    soma = x + y
-    escreva("A soma é: ", soma)
+    c = b + a
+    escreva("O resultado da soma é: ", c)
+
+    c = a - b
+    escreva("O resultado da subtração é: ", c)
   }
 }
