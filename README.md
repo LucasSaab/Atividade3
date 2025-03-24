@@ -1,11 +1,6 @@
-programa {
-  funcao inicio() {
-    real a, b, c
-    escreva("Digite o primeiro numero: ")
-    leia(a)
-    escreva("Digite o segundo numero: ")
-    leia(b)
-    c = a - b
-    escreva("O resultado da subtração é: ", c)
-  }
-}
+# Atividade3
+
+Gerente de projeto: Lucas Nisrallah Saab
+feature-soma: Tiago de Oliveira Silva
+feature-subtração: Gabriel Carvalho Kenji Carvalho Nagao
+feature-multiplicação: João Pedro Batista de Jesus
