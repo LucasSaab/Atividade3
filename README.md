@@ -27,4 +27,3 @@ Conflitos resolvidos
 Merge realizado  
 Modificado nome do arquivo .por  
 README atualizado  
-Merge 
