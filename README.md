@@ -5,6 +5,7 @@ feature-soma: Tiago de Oliveira Silva
 feature-subtração: Gabriel Carvalho Kenji Carvalho Nagao
 feature-multiplicação: João Pedro Batista de Jesus
 
+
 Lucas criou o repositório com arquivo README
 Adicionado arquivo .por
 Criado branches das features
